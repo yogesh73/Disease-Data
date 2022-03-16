@@ -332,3 +332,9 @@ egl,Echinococcus granulosus,Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyh
 hil,Haemophilus influenzae (nontypeable),Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Haemophilus
 T40330,Chapare mammarenavirus,Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Ellioviricetes; Bunyavirales; Arenaviridae; Mammarenavirus
 T40333,Lujo mammarenavirus,Viruses; Riboviria; Orthornavirae; Negarnaviricota; Polyploviricotina; Ellioviricetes; Bunyavirales; Arenaviridae; Mammarenavirus
+T10000,Nausea,
+T10001,anxious,
+T10002,vertigo,
+T10003,sleeplessness,
+T10004,sleepiness,
+T10005,nosebleed,
